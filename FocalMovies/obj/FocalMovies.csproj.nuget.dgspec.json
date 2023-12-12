@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\FocalMovies\\FocalMovies.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj",
+        "projectName": "Focal.Core",
+        "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj",
+        "packagesPath": "C:\\Users\\iashe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\Focal.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\Focal.Infrastructure.csproj",
+        "projectName": "Focal.Infrastructure",
+        "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\Focal.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\iashe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj": {
+                "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\FocalMovies\\FocalMovies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\FocalMovies\\FocalMovies.csproj",
+        "projectName": "FocalMovies",
+        "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\FocalMovies\\FocalMovies.csproj",
+        "packagesPath": "C:\\Users\\iashe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\FocalMovies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iashe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj": {
+                "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Core\\Focal.Core.csproj"
+              },
+              "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\Focal.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\iashe\\Source\\Repos\\IslamEl-shenawy2019\\FocalMovies\\FocalMovies\\Focal.Infrastructure\\Focal.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

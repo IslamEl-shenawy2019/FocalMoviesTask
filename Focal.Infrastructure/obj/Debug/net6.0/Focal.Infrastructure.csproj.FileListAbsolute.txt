@@ -1,0 +1,15 @@
+D:\FocalMovies\Focal.Infrastructure\bin\Debug\net6.0\Focal.Infrastructure.deps.json
+D:\FocalMovies\Focal.Infrastructure\bin\Debug\net6.0\Focal.Infrastructure.dll
+D:\FocalMovies\Focal.Infrastructure\bin\Debug\net6.0\Focal.Infrastructure.pdb
+D:\FocalMovies\Focal.Infrastructure\bin\Debug\net6.0\Focal.Core.dll
+D:\FocalMovies\Focal.Infrastructure\bin\Debug\net6.0\Focal.Core.pdb
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.csproj.AssemblyReference.cache
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.AssemblyInfoInputs.cache
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.AssemblyInfo.cs
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.csproj.CopyComplete
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.dll
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\refint\Focal.Infrastructure.dll
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\Focal.Infrastructure.pdb
+D:\FocalMovies\Focal.Infrastructure\obj\Debug\net6.0\ref\Focal.Infrastructure.dll

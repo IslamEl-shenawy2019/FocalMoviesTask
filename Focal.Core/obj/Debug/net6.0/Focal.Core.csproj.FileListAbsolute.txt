@@ -1,0 +1,12 @@
+D:\FocalMovies\Focal.Core\bin\Debug\net6.0\Focal.Core.deps.json
+D:\FocalMovies\Focal.Core\bin\Debug\net6.0\Focal.Core.dll
+D:\FocalMovies\Focal.Core\bin\Debug\net6.0\Focal.Core.pdb
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.csproj.AssemblyReference.cache
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.AssemblyInfoInputs.cache
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.AssemblyInfo.cs
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.csproj.CoreCompileInputs.cache
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.dll
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\refint\Focal.Core.dll
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\Focal.Core.pdb
+D:\FocalMovies\Focal.Core\obj\Debug\net6.0\ref\Focal.Core.dll
